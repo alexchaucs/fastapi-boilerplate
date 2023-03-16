@@ -8,3 +8,6 @@ run-container:
 
 create-container:
 	make build-image && make run-container
+
+dev-container:
+	docker-compose up --build
