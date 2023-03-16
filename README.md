@@ -1,3 +1,5 @@
 # fastapi-boilerplate
 
-test
+TODO
+* Integrate firestore reads
+* Introduce monorepo
