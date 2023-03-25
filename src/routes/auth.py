@@ -4,6 +4,6 @@ router = APIRouter()
 
 @router.get("/")
 def read_root() -> Response:
-    return Response("The server is running.")
+    return Response("The server is running!!")
 
 
